@@ -71,7 +71,7 @@ Here are 8 reasons why learning to code with examples is beneficial:
 By leveraging examples, learners can develop a deeper understanding of coding concepts, &nbsp;<br class="sm:hx-block hx-hidden" />accelerate their skill acquisition, and gain the confidence to tackle increasingly complex programming challenges.
 </p>
 
-<div class="hx-mb-8" id="technologies"></div>
+<div class="hx-mb-10" id="technologies"></div>
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
@@ -79,7 +79,7 @@ By leveraging examples, learners can develop a deeper understanding of coding co
 {{< /hextra/hero-headline >}}
 </div>
 
-<p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+<p class="hx-mb-12 hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
 Select a language or technology to see its examples
 </p>
 
@@ -128,3 +128,27 @@ Select a language or technology to see its examples
   >}}
 
 {{< /cards >}}
+
+<div class="hx-mb-8" id="about"></div>
+
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  About Pro Examples
+{{< /hextra/hero-headline >}}
+</div>
+
+<p class="hx-mb-6 hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+Even as professional developers, it is extremely difficult to have all our knowledge intact and fresh when we need it.&nbsp;<br class="sm:hx-block hx-hidden" />We tend to forget what we have not used recently, that's how the brain works.
+</p>
+
+<p class="hx-mb-6 hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+We could define Pro Examples as a somewhat more detailed and comprehensive cheat sheet&nbsp;<br class="sm:hx-block hx-hidden" />for different technologies and programming languages.
+</p>
+
+<p class="hx-mb-6 hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+The project takes advantage of all the current power of AI for the generation of texts, but all the content is&nbsp;<br class="sm:hx-block hx-hidden" />curated by humans to avoid any erroneous or inaccurate content.
+</p>
+
+<p class="hx-mb-12 hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+We hope that this content is very useful to you.
+</p>

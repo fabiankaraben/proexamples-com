@@ -1,6 +1,6 @@
 baseURL: https://proexamples.com/
 languageCode: en-us
-title: PROEXAMPLES
+title: Pro Examples
 
 module:
   imports:
@@ -34,20 +34,28 @@ enableInlineShortcodes: true
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
     - identifier: technologies
       name: Technologies
       pageRef: /#technologies
-      weight: 1
-    # - identifier: about
-    #   name: About
-    #   pageRef: /about
-    #   weight: 2
+      weight: 2
+    # - identifier: projects-101
+    #   name: Projects 101
+    #   pageRef: /#projects-101
+    #   weight: 3
+    - identifier: about
+      name: About
+      pageRef: /#about
+      weight: 4
     - name: Search
-      weight: 3
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 6
       url: "https://github.com/fabiankaraben/proexamples-com"
       params:
         icon: github

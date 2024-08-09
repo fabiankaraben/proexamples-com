@@ -84,22 +84,18 @@ This displays an alert dialog box with the `greeting` message.
 
 This example is still relatively simple, but it shows how you can start building more interactive and dynamic JavaScript programs.
 
-## Why is important the "Hello World" example to learn how to code?
-
-
-Show drafts
-
+## Why is important the "Hello World" example?
 
 The "Hello World" example is important to learn how to code for several reasons:
 
-Simplicity & Accessibility: It's a very simple program that demonstrates the most basic syntax and structure of a programming language. This makes it an easy entry point for beginners, allowing them to focus on the fundamental concepts without being overwhelmed by complexity.
+1. **Simplicity & Accessibility**: It's a very simple program that demonstrates the most basic syntax and structure of a programming language. This makes it an easy entry point for beginners, allowing them to focus on the fundamental concepts without being overwhelmed by complexity.
 
-Foundation for Building: It acts as a building block for more complex programs. Once you understand how to write and run a "Hello World" program, you can start adding more features and functionality, gradually expanding your coding skills.
+2. **Foundation for Building**: It acts as a building block for more complex programs. Once you understand how to write and run a "Hello World" program, you can start adding more features and functionality, gradually expanding your coding skills.
 
-Verification of Setup: It serves as a quick test to ensure that your development environment (compiler, interpreter, etc.) is set up correctly. If you can successfully run a "Hello World" program, it indicates that you're ready to start coding more substantial projects.
+3. **Verification of Setup**: It serves as a quick test to ensure that your development environment (compiler, interpreter, etc.) is set up correctly. If you can successfully run a "Hello World" program, it indicates that you're ready to start coding more substantial projects.
 
-Confidence Boost: Successfully running your first program, even if it's just "Hello World," can be a motivating experience. It provides a sense of accomplishment and encourages you to continue learning and exploring the possibilities of programming.
+4. **Confidence Boost**: Successfully running your first program, even if it's just "Hello World," can be a motivating experience. It provides a sense of accomplishment and encourages you to continue learning and exploring the possibilities of programming.
 
-Universal Starting Point: The "Hello World" tradition is widespread across almost all programming languages. This makes it a familiar and unifying concept for programmers, regardless of their specific language or background.
+5. **Universal Starting Point**: The "Hello World" tradition is widespread across almost all programming languages. This makes it a familiar and unifying concept for programmers, regardless of their specific language or background.
 
 In essence, the "Hello World" example is like the first step on a coding journey. It's a simple but crucial starting point that sets the stage for further learning and exploration.
