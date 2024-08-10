@@ -26,7 +26,7 @@ Python is a high-level, general-purpose programming language known for its simpl
 
 - **Large and Active Community**: Python has a vast and supportive community, providing resources, tutorials, and libraries that facilitate learning and development.   
 
-- **Cross-Platform: Python code can run on different operating systems (Windows, macOS, Linux) without major modifications.
+- **Cross-Platform**: Python code can run on different operating systems (Windows, macOS, Linux) without major modifications.
 
 ### Python is used for a wide range of applications, including
 
