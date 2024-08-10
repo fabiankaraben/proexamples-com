@@ -1,5 +1,5 @@
 ---
-title: "Javascript"
+title: "Javascript by Example"
 date:  2024-08-09T14:50:51-03:00
 weight: 1
 cascade:
@@ -14,7 +14,7 @@ On this page we will talk about some interesting facts about JavaScript.
 
 JavaScript is a versatile and widely-used programming language that plays a pivotal role in modern web development. It's a high-level, interpreted (or just-in-time compiled) language that adds interactivity and dynamic behavior to websites.   
 
-### Key characteristics of JavaScript:
+### Key characteristics of JavaScript
 
 - **Scripting Language**: Primarily used to script or control the behavior of web pages, adding features like interactive elements, animations, form validation, and dynamic content updates.   
 
