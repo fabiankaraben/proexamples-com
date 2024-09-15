@@ -88,44 +88,44 @@ Select a language or technology to see its examples
   {{< card
         link="/javascript"
         title="JavaScript by Example"
-        image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="/typescript"
-        title="TypeScript by Example"
-        image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+        image="/images/javascript-card.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
   >}}
 
   {{< card
         link="/python"
         title="Python by Example"
-        image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+        image="/images/python-card.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
   >}}
 
   {{< card
         link="/go"
         title="Go by Example"
-        image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+        image="/images/go-card.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
   >}}
 
-  {{< card
+  <!-- {{< card
+        link="/typescript"
+        title="TypeScript by Example"
+        image="/images/default-tech-bg.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
+  >}} -->
+
+  <!-- {{< card
         link="/html"
         title="HTML by Example"
         image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
+  >}} -->
 
-  {{< card
+  <!-- {{< card
         link="/css"
         title="CSS by Example"
         image="/images/default-tech-bg.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
+        imageStyle="object-fit:cover; aspect-ratio:16/9; width:1200px;"
+  >}} -->
 
 {{< /cards >}}
 
