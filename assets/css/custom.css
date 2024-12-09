@@ -1,4 +1,0 @@
-/* Navbar title to uppercase */
-nav span[title="Pro Examples"] {
-    text-transform: uppercase;
-}
