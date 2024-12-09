@@ -26,6 +26,7 @@ export default defineConfig({
   head,
   integrations: [
     starlight({
+      head,
       title: 'Pro Examples',
       social: {
         github: 'https://github.com/fabiankaraben/proexamples-com',
